@@ -1,7 +1,7 @@
-<h2>🎈 Welcome to Bora's github! 🎈</h4>
+<h2>🎈 Bora's github 🎈</h4>
 
 안녕하세요!
-늦깎이 신입 프론트엔드 개발자 윤보라입니다.
+신입 프론트엔드 개발자 윤보라입니다.
 
 <h4>👩 Blog</h4>
 
