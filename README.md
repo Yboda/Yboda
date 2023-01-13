@@ -13,5 +13,4 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=FFFFFF" /> 
 
 
-![yboda's github stats](https://github-readme-stats.vercel.app/api?username=yboda&show_icons=true)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ra2116)](https://velog.io/@ra2116)
