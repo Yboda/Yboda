@@ -30,6 +30,13 @@
   <img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=Drizzle&logoColor=black" alt="Drizzle" />
 </p>
 
+### DevOps & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white" alt="Vercel" />
+</p>
+
 ---
 
 ## 🔥 Current Focus
