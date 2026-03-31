@@ -41,7 +41,7 @@
 
 ## 🔥 Current Focus
 
-* **VibeLedger Project**: Next.js 15 App Router와 AI 도구를 결합한 개인용 가계부 프로젝트를 진행 중입니다.
+* **VibeLedger Project**: Next.js 16 App Router와 AI 도구를 결합한 개인용 가계부 프로젝트를 진행 중입니다.
 * **Certification**: 2026년 3월 정보처리기사 필기에 합격하여, 4월 중 실기 시험 예정으로, 매일 꾸준히 학습하고 있습니다. 📝
 * **Computer Science**: C언어와 Java의 동작 원리를 파고들며 기초가 탄탄한 개발자로 성장 중입니다.
 
