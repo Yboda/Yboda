@@ -38,10 +38,3 @@
 </p>
 
 ---
-
-## 🔥 Current Focus
-
-* **VibeLedger Project**: Next.js 16 App Router와 AI 도구를 결합한 개인용 가계부 프로젝트를 진행 중입니다.
-* **Certification**: 2026년 3월 정보처리기사 필기에 합격하여, 4월 18일 응시 완료, 가채점 합격권 상회로 자격증 취득에 성공하였습니다. 📝
-
----
